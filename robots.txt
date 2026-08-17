@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-fp6lhz.bokupaybymobilecasino.co.uk/sitemap.xml
